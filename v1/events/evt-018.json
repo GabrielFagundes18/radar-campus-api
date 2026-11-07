@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-018",
+    "title": "Oficina de Design de Interfaces",
+    "summary": "Protótipos no papel e no Figma, com testes de usabilidade.",
+    "category": "oficina",
+    "modality": "presencial",
+    "startsAt": "2027-05-19T14:00:00-03:00",
+    "endsAt": "2027-05-19T18:00:00-03:00",
+    "registrationDeadline": "2027-05-17T23:59:00-03:00",
+    "location": "Sala Criativa, Bloco B",
+    "city": "Vale Aurora - MG",
+    "organizer": "Curso de Design",
+    "capacity": 35,
+    "enrolled": 9,
+    "workloadHours": 4,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Oficina prática com exercícios de hierarquia visual, prototipação e testes de usabilidade com colegas.",
+    "speakers": [
+      {
+        "name": "Letícia Barros",
+        "role": "Designer de produto"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "14:00",
+        "title": "Fundamentos"
+      },
+      {
+        "time": "15:30",
+        "title": "Prototipação e testes"
+      }
+    ],
+    "tags": [
+      "design",
+      "usabilidade"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-006",
+    "title": "Feira de Estágios e Carreiras",
+    "summary": "Empresas da região recebem currículos e fazem entrevistas rápidas.",
+    "category": "profissional",
+    "modality": "presencial",
+    "startsAt": "2026-11-27T09:00:00-03:00",
+    "endsAt": "2026-11-27T17:00:00-03:00",
+    "registrationDeadline": "2026-11-26T23:59:00-03:00",
+    "location": "Ginásio do Campus Central",
+    "city": "Vale Aurora - MG",
+    "organizer": "Núcleo de Carreiras",
+    "capacity": null,
+    "enrolled": 412,
+    "workloadHours": 4,
+    "certificate": false,
+    "status": "cancelled",
+    "description": "A feira foi cancelada por indisponibilidade do ginásio. Uma nova data será divulgada pelo Núcleo de Carreiras.",
+    "speakers": [],
+    "schedule": [],
+    "tags": [
+      "estágio",
+      "emprego"
+    ]
+  }
+}

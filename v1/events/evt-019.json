@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-019",
+    "title": "Semana da Saúde e Bem-Estar Estudantil",
+    "summary": "Atividades sobre saúde mental, sono e rotina de estudos.",
+    "category": "semana-academica",
+    "modality": "presencial",
+    "startsAt": "2027-05-24T10:00:00-03:00",
+    "endsAt": "2027-05-28T19:00:00-03:00",
+    "registrationDeadline": "2027-05-21T23:59:00-03:00",
+    "location": "Praça de Convivência do Campus",
+    "city": "Vale Aurora - MG",
+    "organizer": "Serviço de Apoio ao Estudante",
+    "capacity": null,
+    "enrolled": 45,
+    "workloadHours": 10,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Uma semana de rodas de conversa e atividades abertas sobre saúde mental, qualidade do sono e organização da vida acadêmica.",
+    "speakers": [
+      {
+        "name": "Dra. Carolina Pires",
+        "role": "Psicóloga"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "Segunda, 10:00",
+        "title": "Abertura"
+      },
+      {
+        "time": "Quarta, 16:00",
+        "title": "Roda de conversa"
+      }
+    ],
+    "tags": [
+      "bem-estar",
+      "saúde mental"
+    ]
+  }
+}

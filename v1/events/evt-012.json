@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-012",
+    "title": "Palestra de Abertura do Semestre",
+    "summary": "Boas-vindas, calendário acadêmico e oportunidades de pesquisa e extensão.",
+    "category": "palestra",
+    "modality": "presencial",
+    "startsAt": "2027-02-24T19:00:00-03:00",
+    "endsAt": "2027-02-24T20:30:00-03:00",
+    "registrationDeadline": "2027-02-24T12:00:00-03:00",
+    "location": "Auditório Central",
+    "city": "Vale Aurora - MG",
+    "organizer": "Pró-Reitoria de Graduação",
+    "capacity": 500,
+    "enrolled": 120,
+    "workloadHours": 2,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Encontro de início de semestre, voltado principalmente a ingressantes. Serão apresentados os programas de monitoria, iniciação científica e extensão.",
+    "speakers": [
+      {
+        "name": "Profa. Beatriz Campos",
+        "role": "Pró-Reitora de Graduação"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "19:00",
+        "title": "Boas-vindas e apresentações"
+      }
+    ],
+    "tags": [
+      "ingressantes",
+      "pesquisa",
+      "extensão"
+    ]
+  }
+}

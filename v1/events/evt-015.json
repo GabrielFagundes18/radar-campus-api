@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-015",
+    "title": "Workshop de Entrevistas Técnicas",
+    "summary": "Simulações de entrevista com profissionais de tecnologia.",
+    "category": "profissional",
+    "modality": "online",
+    "startsAt": "2027-04-07T19:00:00-03:00",
+    "endsAt": "2027-04-07T21:00:00-03:00",
+    "registrationDeadline": "2027-04-06T23:59:00-03:00",
+    "location": "Sala virtual",
+    "city": "Online",
+    "organizer": "Núcleo de Carreiras",
+    "capacity": 40,
+    "enrolled": 36,
+    "workloadHours": 2,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Sessão com simulações em duplas, comentários de profissionais da área e dicas de preparação para processos seletivos de estágio.",
+    "speakers": [
+      {
+        "name": "Gustavo Reis",
+        "role": "Tech recruiter"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "19:00",
+        "title": "Como funciona o processo"
+      },
+      {
+        "time": "19:45",
+        "title": "Simulações"
+      }
+    ],
+    "tags": [
+      "carreira",
+      "entrevista"
+    ]
+  }
+}

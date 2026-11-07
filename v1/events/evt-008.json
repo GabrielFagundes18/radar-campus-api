@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-008",
+    "title": "Semana de Engenharia e Sustentabilidade",
+    "summary": "Mesas-redondas, visitas técnicas e exposição de protótipos.",
+    "category": "semana-academica",
+    "modality": "hibrido",
+    "startsAt": "2026-12-07T08:30:00-03:00",
+    "endsAt": "2026-12-11T17:30:00-03:00",
+    "registrationDeadline": "2026-12-04T23:59:00-03:00",
+    "location": "Centro de Convenções do Campus",
+    "city": "Vale Aurora - MG",
+    "organizer": "Diretório Acadêmico de Engenharia",
+    "capacity": 400,
+    "enrolled": 268,
+    "workloadHours": 24,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Evento anual dos cursos de engenharia, com programação presencial e mesas transmitidas ao vivo. O tema desta edição é energia limpa e gestão de resíduos.",
+    "speakers": [
+      {
+        "name": "Profa. Renata Lobo",
+        "role": "Engenharia ambiental"
+      },
+      {
+        "name": "Eduardo Viana",
+        "role": "Consultor em energia"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "Segunda, 08:30",
+        "title": "Mesa de abertura"
+      },
+      {
+        "time": "Quarta, 14:00",
+        "title": "Visita técnica"
+      },
+      {
+        "time": "Sexta, 10:00",
+        "title": "Exposição de protótipos"
+      }
+    ],
+    "tags": [
+      "engenharia",
+      "sustentabilidade"
+    ]
+  }
+}

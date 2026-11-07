@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-011",
+    "title": "Hackathon de Saúde Digital",
+    "summary": "Desafios reais de clínicas-escola para equipes multidisciplinares.",
+    "category": "hackathon",
+    "modality": "hibrido",
+    "startsAt": "2027-02-19T18:00:00-03:00",
+    "endsAt": "2027-02-21T13:00:00-03:00",
+    "registrationDeadline": "2027-02-14T23:59:00-03:00",
+    "location": "Hub de Inovação e plataforma on-line",
+    "city": "Vale Aurora - MG",
+    "organizer": "Liga de Inovação Estudantil",
+    "capacity": 150,
+    "enrolled": 38,
+    "workloadHours": 30,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Estudantes de saúde, computação e design trabalham juntos em desafios propostos por clínicas-escola. As equipes podem participar presencialmente ou de forma remota.",
+    "speakers": [
+      {
+        "name": "Dra. Paula Saraiva",
+        "role": "Mentora de saúde"
+      },
+      {
+        "name": "Vitor Amaral",
+        "role": "Mentor de design"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "Sexta, 18:00",
+        "title": "Apresentação dos desafios"
+      },
+      {
+        "time": "Sábado, 10:00",
+        "title": "Mentorias"
+      },
+      {
+        "time": "Domingo, 11:00",
+        "title": "Banca final"
+      }
+    ],
+    "tags": [
+      "saúde",
+      "inovação"
+    ]
+  }
+}

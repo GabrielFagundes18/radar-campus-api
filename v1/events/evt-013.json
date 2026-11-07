@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-013",
+    "title": "Oficina de Escrita Científica",
+    "summary": "Estrutura de artigos, citações e normas para o TCC.",
+    "category": "oficina",
+    "modality": "online",
+    "startsAt": "2027-03-10T18:30:00-03:00",
+    "endsAt": "2027-03-10T21:00:00-03:00",
+    "registrationDeadline": "2027-03-08T23:59:00-03:00",
+    "location": "Sala virtual",
+    "city": "Online",
+    "organizer": "Biblioteca Central",
+    "capacity": 100,
+    "enrolled": 22,
+    "workloadHours": 3,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Oficina com exercícios de escrita, uso de gerenciadores de referências e as dúvidas mais comuns sobre normas de formatação.",
+    "speakers": [
+      {
+        "name": "Silvia Moraes",
+        "role": "Bibliotecária"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "18:30",
+        "title": "Estrutura do texto"
+      },
+      {
+        "time": "20:00",
+        "title": "Referências e normas"
+      }
+    ],
+    "tags": [
+      "tcc",
+      "pesquisa"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-014",
+    "title": "Semana de Administração e Negócios",
+    "summary": "Cases, simulações de negócios e encontro com empreendedores locais.",
+    "category": "semana-academica",
+    "modality": "presencial",
+    "startsAt": "2027-03-22T19:00:00-03:00",
+    "endsAt": "2027-03-26T22:00:00-03:00",
+    "registrationDeadline": "2027-03-19T23:59:00-03:00",
+    "location": "Bloco de Ciências Sociais Aplicadas",
+    "city": "Vale Aurora - MG",
+    "organizer": "Empresa Júnior Aurora",
+    "capacity": 250,
+    "enrolled": 54,
+    "workloadHours": 15,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Programação noturna com estudos de caso, simulação de negócios em equipes e rodada de conversa com empreendedores da região.",
+    "speakers": [
+      {
+        "name": "Fernanda Lima",
+        "role": "Empreendedora"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "Segunda, 19:00",
+        "title": "Abertura"
+      },
+      {
+        "time": "Quarta, 19:30",
+        "title": "Simulação de negócios"
+      }
+    ],
+    "tags": [
+      "negócios",
+      "empreendedorismo"
+    ]
+  }
+}

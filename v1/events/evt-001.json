@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-001",
+    "title": "Semana da Computação 2026",
+    "summary": "Cinco dias de palestras, minicursos e mostra de projetos dos cursos de tecnologia.",
+    "category": "semana-academica",
+    "modality": "presencial",
+    "startsAt": "2026-10-19T08:00:00-03:00",
+    "endsAt": "2026-10-23T18:00:00-03:00",
+    "registrationDeadline": "2026-10-16T23:59:00-03:00",
+    "location": "Bloco de Tecnologia, Campus Central",
+    "city": "Vale Aurora - MG",
+    "organizer": "Colegiado de Computação",
+    "capacity": 300,
+    "enrolled": 284,
+    "workloadHours": 20,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "A Semana da Computação reúne estudantes, docentes e profissionais para discutir tendências da área. A programação inclui palestras pela manhã, minicursos à tarde e a mostra de projetos integradores no último dia.",
+    "speakers": [
+      {
+        "name": "Profa. Helena Duarte",
+        "role": "Coordenação do curso"
+      },
+      {
+        "name": "Rafael Nogueira",
+        "role": "Engenheiro de software"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "Segunda, 08:00",
+        "title": "Abertura e palestra magna"
+      },
+      {
+        "time": "Terça a quinta, 14:00",
+        "title": "Minicursos"
+      },
+      {
+        "time": "Sexta, 09:00",
+        "title": "Mostra de projetos"
+      }
+    ],
+    "tags": [
+      "computação",
+      "minicursos",
+      "projetos"
+    ]
+  }
+}

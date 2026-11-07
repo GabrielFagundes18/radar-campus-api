@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-003",
+    "title": "Palestra: Ética em Inteligência Artificial",
+    "summary": "Debate sobre vieses, privacidade e responsabilidade no uso de IA.",
+    "category": "palestra",
+    "modality": "hibrido",
+    "startsAt": "2026-11-05T19:30:00-03:00",
+    "endsAt": "2026-11-05T21:30:00-03:00",
+    "registrationDeadline": "2026-11-05T18:00:00-03:00",
+    "location": "Auditório Central e transmissão ao vivo",
+    "city": "Vale Aurora - MG",
+    "organizer": "Grupo de Estudos em IA",
+    "capacity": 200,
+    "enrolled": 146,
+    "workloadHours": 2,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Encontro aberto a todos os cursos sobre os impactos sociais da inteligência artificial, com exemplos de decisões automatizadas em saúde, educação e crédito.",
+    "speakers": [
+      {
+        "name": "Prof. Tiago Mendes",
+        "role": "Pesquisador em ética aplicada"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "19:30",
+        "title": "Palestra"
+      },
+      {
+        "time": "20:45",
+        "title": "Perguntas do público"
+      }
+    ],
+    "tags": [
+      "inteligência artificial",
+      "ética"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-007",
+    "title": "Palestra: Primeiros Passos em Cibersegurança",
+    "summary": "Como proteger contas, dados e projetos desde a graduação.",
+    "category": "palestra",
+    "modality": "online",
+    "startsAt": "2026-12-01T20:00:00-03:00",
+    "endsAt": "2026-12-01T21:30:00-03:00",
+    "registrationDeadline": "2026-12-01T18:00:00-03:00",
+    "location": "Sala virtual",
+    "city": "Online",
+    "organizer": "Grupo de Segurança da Informação",
+    "capacity": null,
+    "enrolled": 214,
+    "workloadHours": 2,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Palestra introdutória sobre autenticação, gerenciadores de senha, engenharia social e cuidados com repositórios de código.",
+    "speakers": [
+      {
+        "name": "Lucas Ferraz",
+        "role": "Analista de segurança"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "20:00",
+        "title": "Palestra"
+      },
+      {
+        "time": "21:00",
+        "title": "Perguntas e respostas"
+      }
+    ],
+    "tags": [
+      "segurança",
+      "privacidade"
+    ]
+  }
+}

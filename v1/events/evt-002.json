@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-002",
+    "title": "Oficina de Currículo e LinkedIn",
+    "summary": "Revisão prática de currículos com recrutadores convidados.",
+    "category": "oficina",
+    "modality": "online",
+    "startsAt": "2026-10-28T19:00:00-03:00",
+    "endsAt": "2026-10-28T21:00:00-03:00",
+    "registrationDeadline": "2026-10-27T23:59:00-03:00",
+    "location": "Sala virtual",
+    "city": "Online",
+    "organizer": "Núcleo de Carreiras",
+    "capacity": 80,
+    "enrolled": 80,
+    "workloadHours": 2,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Oficina prática em que cada participante envia o currículo com antecedência e recebe comentários. Também veremos como organizar o perfil profissional para vagas de estágio.",
+    "speakers": [
+      {
+        "name": "Marina Couto",
+        "role": "Consultora de carreira"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "19:00",
+        "title": "Boas práticas de currículo"
+      },
+      {
+        "time": "20:00",
+        "title": "Revisões ao vivo"
+      }
+    ],
+    "tags": [
+      "carreira",
+      "estágio"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-020",
+    "title": "Conferência de Tecnologia e Sociedade",
+    "summary": "Dois dias com profissionais do mercado, pesquisa e setor público.",
+    "category": "profissional",
+    "modality": "hibrido",
+    "startsAt": "2027-06-11T09:00:00-03:00",
+    "endsAt": "2027-06-12T18:00:00-03:00",
+    "registrationDeadline": "2027-06-07T23:59:00-03:00",
+    "location": "Centro de Convenções do Campus",
+    "city": "Vale Aurora - MG",
+    "organizer": "Associação de Egressos",
+    "capacity": 350,
+    "enrolled": 28,
+    "workloadHours": 16,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Conferência com trilhas sobre governo digital, trabalho remoto, educação e dados abertos. Parte da programação é transmitida ao vivo.",
+    "speakers": [
+      {
+        "name": "Otávio Freitas",
+        "role": "Gestor público"
+      },
+      {
+        "name": "Nadia Rezende",
+        "role": "Líder de engenharia"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "Sexta, 09:00",
+        "title": "Abertura e trilhas"
+      },
+      {
+        "time": "Sábado, 09:00",
+        "title": "Painéis e encerramento"
+      }
+    ],
+    "tags": [
+      "tecnologia",
+      "sociedade"
+    ]
+  }
+}

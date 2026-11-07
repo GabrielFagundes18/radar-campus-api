@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-010",
+    "title": "Encontro de Egressos: Carreira em Dados",
+    "summary": "Ex-alunos contam como chegaram às áreas de dados e analytics.",
+    "category": "profissional",
+    "modality": "presencial",
+    "startsAt": "2026-12-15T19:00:00-03:00",
+    "endsAt": "2026-12-15T21:30:00-03:00",
+    "registrationDeadline": "2026-12-14T23:59:00-03:00",
+    "location": "Auditório Central",
+    "city": "Vale Aurora - MG",
+    "organizer": "Associação de Egressos",
+    "capacity": 150,
+    "enrolled": 62,
+    "workloadHours": 2,
+    "certificate": false,
+    "status": "postponed",
+    "description": "O encontro foi adiado a pedido dos convidados. A nova data será publicada nesta página assim que for confirmada.",
+    "speakers": [
+      {
+        "name": "Juliana Rocha",
+        "role": "Cientista de dados"
+      }
+    ],
+    "schedule": [],
+    "tags": [
+      "dados",
+      "carreira"
+    ]
+  }
+}

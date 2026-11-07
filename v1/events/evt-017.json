@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-017",
+    "title": "Maratona de Programação Interna",
+    "summary": "Treino e seletiva para as competições regionais de programação.",
+    "category": "hackathon",
+    "modality": "presencial",
+    "startsAt": "2027-05-08T09:00:00-03:00",
+    "endsAt": "2027-05-08T17:00:00-03:00",
+    "registrationDeadline": "2027-05-03T23:59:00-03:00",
+    "location": "Laboratórios 1 a 4, Bloco de Tecnologia",
+    "city": "Vale Aurora - MG",
+    "organizer": "Clube de Programação",
+    "capacity": 90,
+    "enrolled": 33,
+    "workloadHours": 8,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Competição em trios com problemas de algoritmos. As equipes mais bem colocadas representam a instituição nas etapas regionais.",
+    "speakers": [
+      {
+        "name": "Prof. Davi Andrade",
+        "role": "Técnico do clube"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "09:00",
+        "title": "Credenciamento e aquecimento"
+      },
+      {
+        "time": "10:00",
+        "title": "Prova"
+      },
+      {
+        "time": "16:00",
+        "title": "Comentários e premiação"
+      }
+    ],
+    "tags": [
+      "algoritmos",
+      "competição"
+    ]
+  }
+}

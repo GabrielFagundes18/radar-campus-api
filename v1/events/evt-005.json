@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-005",
+    "title": "Oficina de React Native com Expo",
+    "summary": "Do zero ao primeiro aplicativo instalado no celular.",
+    "category": "oficina",
+    "modality": "presencial",
+    "startsAt": "2026-11-24T14:00:00-03:00",
+    "endsAt": "2026-11-24T18:00:00-03:00",
+    "registrationDeadline": "2026-11-22T23:59:00-03:00",
+    "location": "Laboratório 3, Bloco de Tecnologia",
+    "city": "Vale Aurora - MG",
+    "organizer": "Centro Acadêmico de Computação",
+    "capacity": 30,
+    "enrolled": 30,
+    "workloadHours": 4,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Oficina mão na massa: criação do projeto, componentes, navegação e geração de um build para Android. Traga o seu notebook e um cabo USB.",
+    "speakers": [
+      {
+        "name": "Bruna Teles",
+        "role": "Desenvolvedora mobile"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "14:00",
+        "title": "Ambiente e primeiro projeto"
+      },
+      {
+        "time": "16:00",
+        "title": "Navegação e consumo de API"
+      }
+    ],
+    "tags": [
+      "mobile",
+      "programação"
+    ]
+  }
+}

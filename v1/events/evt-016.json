@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-016",
+    "title": "Palestra: Mulheres na Ciência",
+    "summary": "Trajetórias de pesquisadoras e os caminhos para a pós-graduação.",
+    "category": "palestra",
+    "modality": "hibrido",
+    "startsAt": "2027-04-15T18:30:00-03:00",
+    "endsAt": "2027-04-15T20:30:00-03:00",
+    "registrationDeadline": "2027-04-15T12:00:00-03:00",
+    "location": "Auditório de Ciências e transmissão ao vivo",
+    "city": "Vale Aurora - MG",
+    "organizer": "Coletivo Ciência Plural",
+    "capacity": 180,
+    "enrolled": 71,
+    "workloadHours": 2,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Roda de conversa com pesquisadoras de diferentes áreas sobre carreira acadêmica, bolsas e desafios na ciência.",
+    "speakers": [
+      {
+        "name": "Dra. Ana Clara Vieira",
+        "role": "Física"
+      },
+      {
+        "name": "Dra. Isabel Nunes",
+        "role": "Bioquímica"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "18:30",
+        "title": "Roda de conversa"
+      }
+    ],
+    "tags": [
+      "ciência",
+      "pós-graduação"
+    ]
+  }
+}

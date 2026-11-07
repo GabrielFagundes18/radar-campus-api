@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "version": "1.0",
+    "notice": "Dados fictícios criados para fins acadêmicos."
+  },
+  "data": {
+    "id": "evt-004",
+    "title": "Hackathon Cidades Inteligentes",
+    "summary": "36 horas para criar soluções de mobilidade e sustentabilidade urbana.",
+    "category": "hackathon",
+    "modality": "presencial",
+    "startsAt": "2026-11-20T18:00:00-03:00",
+    "endsAt": "2026-11-22T12:00:00-03:00",
+    "registrationDeadline": "2026-11-17T23:59:00-03:00",
+    "location": "Laboratório Maker, Bloco C",
+    "city": "Vale Aurora - MG",
+    "organizer": "Liga de Inovação Estudantil",
+    "capacity": 120,
+    "enrolled": 97,
+    "workloadHours": 30,
+    "certificate": true,
+    "status": "scheduled",
+    "description": "Equipes de três a cinco estudantes desenvolvem protótipos a partir de desafios propostos pela prefeitura fictícia de Vale Aurora. Mentores acompanham as equipes durante todo o evento e as melhores soluções são apresentadas a uma banca.",
+    "speakers": [
+      {
+        "name": "Camila Prado",
+        "role": "Mentora de produto"
+      },
+      {
+        "name": "Prof. André Salles",
+        "role": "Mentor técnico"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "Sexta, 18:00",
+        "title": "Abertura e formação de equipes"
+      },
+      {
+        "time": "Sábado, 09:00",
+        "title": "Mentorias"
+      },
+      {
+        "time": "Domingo, 10:00",
+        "title": "Apresentações finais"
+      }
+    ],
+    "tags": [
+      "inovação",
+      "mobilidade",
+      "sustentabilidade"
+    ]
+  }
+}
